@@ -125,6 +125,7 @@ Visualize transaction movement across months.
 # 📌 Learning Outcomes
 
 Through this project:
+
 ✔ Built interactive dashboards
 
 ✔ Applied data visualization principles
