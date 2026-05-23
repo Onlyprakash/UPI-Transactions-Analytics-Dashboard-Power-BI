@@ -39,7 +39,7 @@ Detailed monthly transaction breakdown with dynamic filtering.
 - Remaining Balance Tracking
 - Currency Monitoring
 - City Comparison
-<img width="500" height="350" alt="Transaction Data Explorer" src="https://github.com/user-attachments/assets/089ea576-6e14-40bd-8eff-1b3ac4eaeb16" />
+<img width="550" height="350" alt="Transaction Data Explorer" src="https://github.com/user-attachments/assets/089ea576-6e14-40bd-8eff-1b3ac4eaeb16" />
 
 ## 2️⃣ Balance Analysis — Column View
 
