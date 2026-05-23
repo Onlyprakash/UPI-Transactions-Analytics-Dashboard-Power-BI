@@ -26,7 +26,7 @@ This dashboard helps answer:
 - How payment behavior changes?
 
 # 🎛 Dashboard Navigation
-# 👉 This project contains multiple dashboard views for deeper analysis.
+ 👉 This project contains multiple dashboard views for deeper analysis.
 
 ## 1️⃣ Transaction Data Explorer
 
@@ -123,12 +123,16 @@ Visualize transaction movement across months.
 | Excel | Dataset |
 
 # 📌 Learning Outcomes
-Through this project:
 
+Through this project:
 ✔ Built interactive dashboards
+
 ✔ Applied data visualization principles
+
 ✔ Improved business insight generation
+
 ✔ Practiced dashboard storytelling
+
 ✔ Worked with filtering and data exploration
 
 # ⭐ Support
