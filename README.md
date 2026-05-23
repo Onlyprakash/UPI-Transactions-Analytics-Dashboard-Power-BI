@@ -8,6 +8,7 @@
 This project provides an interactive transaction analytics experience built using Power BI.
 
 The dashboard allows users to:
+
 ✔ Explore monthly transaction patterns  
 ✔ Monitor balance fluctuations  
 ✔ Analyze payment activity  
@@ -38,7 +39,7 @@ Detailed monthly transaction breakdown with dynamic filtering.
 - Remaining Balance Tracking
 - Currency Monitoring
 - City Comparison
-<img width="309" height="132" alt="Transaction Data Explorer" src="https://github.com/user-attachments/assets/089ea576-6e14-40bd-8eff-1b3ac4eaeb16" />
+<img width="500" height="300" alt="Transaction Data Explorer" src="https://github.com/user-attachments/assets/089ea576-6e14-40bd-8eff-1b3ac4eaeb16" />
 
 ## 2️⃣ Balance Analysis — Column View
 
@@ -124,6 +125,7 @@ Visualize transaction movement across months.
 # 📌 Learning Outcomes
 
 Through this project:
+
 ✔ Built interactive dashboards
 ✔ Applied data visualization principles
 ✔ Improved business insight generation
