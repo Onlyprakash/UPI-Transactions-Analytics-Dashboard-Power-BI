@@ -52,7 +52,7 @@ Visual comparison of monthly balance distribution.
 - Monthly Comparison
 - Balance Trend Detection
 - Performance Monitoring
-<img width="309" height="132" alt="Balance Trend - Column View" src="https://github.com/user-attachments/assets/554a1c1a-7dff-4b56-950e-9fe9b3a5a0f9" />
+<img width="550" height="350" alt="Balance Trend - Column View" src="https://github.com/user-attachments/assets/554a1c1a-7dff-4b56-950e-9fe9b3a5a0f9" />
 
 ## 3️⃣ Balance Analysis — Line View
 
@@ -65,7 +65,7 @@ Track balance movement over time.
 - Peak Detection
 - Seasonal Balance Trends
 - Smooth Visual Tracking
-<img width="309" height="132" alt="Balance Trend - Line View" src="https://github.com/user-attachments/assets/8dbcb5f2-e3f1-42ca-8d73-c9ed1038cb43" />
+<img width="550" height="350" alt="Balance Trend - Line View" src="https://github.com/user-attachments/assets/8dbcb5f2-e3f1-42ca-8d73-c9ed1038cb43" />
 
 ## 4️⃣ Transaction Analysis — Column View
 
@@ -78,7 +78,7 @@ Compare monthly transaction amounts.
 - Transaction Distribution
 - Monthly Comparison
 - Transaction Monitoring
-<img width="309" height="132" alt="Transaction Trend - Column View" src="https://github.com/user-attachments/assets/3405d51f-de81-4a1b-978b-2cdd29fbfc38" />
+<img width="550" height="350" alt="Transaction Trend - Column View" src="https://github.com/user-attachments/assets/3405d51f-de81-4a1b-978b-2cdd29fbfc38" />
 
 ## 5️⃣ Transaction Analysis — Line View
 
@@ -91,7 +91,7 @@ Visualize transaction movement across months.
 - Trend Identification
 - Monthly Monitoring
 - Performance Tracking
-<img width="309" height="132" alt="Transaction Trend - Line View" src="https://github.com/user-attachments/assets/4788de9c-cfb1-4d40-8a34-e1faf3b238fc" />
+<img width="550" height="350" alt="Transaction Trend - Line View" src="https://github.com/user-attachments/assets/4788de9c-cfb1-4d40-8a34-e1faf3b238fc" />
 
 # 📊 Dashboard Features
 ### Interactive Filters
@@ -123,7 +123,6 @@ Visualize transaction movement across months.
 | Excel | Dataset |
 
 # 📌 Learning Outcomes
-
 Through this project:
 
 ✔ Built interactive dashboards
